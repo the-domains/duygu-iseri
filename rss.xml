@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Round the World with Duygu]]></title>
         <description><![CDATA[Round the World with Duygu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/duygu-iseri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:18:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 18:23:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/duygu-iseri/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cc8d689-9d98-48ac-82ed-171ff612335c.jpg">]]></description>
-            <link>undefined09cb73c4-6e41-4a8d-bb81-af48f1ec0566/index.html</link>
+            <link>https://thegrid.ai/duygu-iseri/09cb73c4-6e41-4a8d-bb81-af48f1ec0566/index.html</link>
             <guid isPermaLink="false">09cb73c4-6e41-4a8d-bb81-af48f1ec0566</guid>
-            <pubDate>Wed, 10 Feb 2016 16:06:32 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 18:22:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
