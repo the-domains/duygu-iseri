@@ -1,0 +1,29 @@
+name: Duygu Iseri
+favicon: null
+layout_spectrum: 0.5071576507762074
+typography_spectrum: 0.43619040097109973
+title: Round the World with Duygu
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6000521418172866
+  lightness: 0.8696245294995606
+  saturation: 0.6174776768311858
+  rhythmicContrast: 0.40731720463372767
+purpose: []
