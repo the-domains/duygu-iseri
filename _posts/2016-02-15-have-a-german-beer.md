@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-15T10:20:27.180Z'
+datePublished: '2016-02-15T11:36:35.440Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'Have a German beer!'
-dateModified: '2016-02-15T10:04:11.349Z'
+dateModified: '2016-02-15T11:36:06.898Z'
 sourcePath: _posts/2016-02-15-have-a-german-beer.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
