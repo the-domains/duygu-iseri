@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-15T10:20:27.969Z'
+datePublished: '2016-02-15T11:36:35.364Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Against the Berlin Wall
-dateModified: '2016-02-15T10:15:17.988Z'
+dateModified: '2016-02-15T11:36:06.445Z'
 sourcePath: _posts/2016-02-15-against-the-berlin-wall.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
