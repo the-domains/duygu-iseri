@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-15T10:20:31.612Z'
+datePublished: '2016-02-15T11:36:35.359Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: My favorite car
-dateModified: '2016-02-15T10:11:17.525Z'
+dateModified: '2016-02-15T11:36:06.450Z'
 sourcePath: _posts/2016-02-15-my-favorite-car.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
