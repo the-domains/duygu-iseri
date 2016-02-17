@@ -1,18 +1,23 @@
 ---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-17T11:13:42.608Z'
+dateModified: '2016-02-17T11:13:37.931Z'
 author: []
-datePublished: '2016-02-15T11:36:35.359Z'
+title: My favorite car
+sourcePath: _posts/2016-02-15-my-favorite-car.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: My favorite car
-dateModified: '2016-02-15T11:36:06.450Z'
-sourcePath: _posts/2016-02-15-my-favorite-car.md
-published: true
-starred: false
-inFeed: true
-hasPage: true
-inNav: false
+  url: null
+  favicon: null
 url: my-favorite-car/index.html
 _context: 'http://schema.org'
 _type: Article
